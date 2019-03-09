@@ -4,3 +4,4 @@
 
 
 <p>Using openWeatherMap API to completed this stuff</p>
+<img src="img/finished.png" width="400" height="300">
